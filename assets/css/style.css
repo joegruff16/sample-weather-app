@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: hsl(0, 0%, 95%);
     margin: 0;
     display: flex;
@@ -25,7 +25,7 @@ button[type="submit"] {
     padding: 10px 20px;
     font-weight: bold;
     font-size: 2rem;
-    background-color: hsl(122 39% 50%);
+    background-color: hsl(120, 25%, 2%);
     color: white;
     border: none;
     border-radius: 5px;
@@ -33,11 +33,11 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: hsl(122 39% 40%);
+    background-color: hsl(218, 73%, 87%);
 }
 
 .card {
-    background: linear-gradient(180deg, hsl(218, 100%, 75%), hsl(40, 100%, 75%));
+    background: linear-gradient(180deg, hsl(218, 73%, 87%), hsl(40, 94%, 50%));
     padding: 50px;
     border-radius: 10px;
     box-shadow: 2px 2px 5px hsla(0, 0%, 0%, 0.5);
