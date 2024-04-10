@@ -6,7 +6,7 @@ This app utilizes a weather API so that when a user enters the name of a city; i
 
 ## Finished Product
 
-
+![Weather](./assets/images/screen-shot-weather-app.png "sample-weather-app")
 
 ## Credits
 
